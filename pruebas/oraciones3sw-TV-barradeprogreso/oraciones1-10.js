@@ -26,6 +26,10 @@ document.addEventListener('DOMContentLoaded', () => {
         gloriaAlPadre: {
             titulo: "Gloria al Padre",
             texto: "Gloria al Padre y al Hijo y al Espíritu Santo.\nComo era en el principio, ahora y siempre, por los siglos de los siglos.\nAmén."
+        },
+        creoNC: {
+            titulo: "Credo Niceno-Constantinopolitano",
+            texto: "Creo en un solo Dios, Padre Todopoderoso,\nCreador del cielo y de la tierra, de todo lo visible y\nlo invisible. Creo en un solo Señor,\nJesucristo, Hijo único de Dios, nacido del Padre\nantes de todos los siglos:\nDios de Dios, Luz de Luz, Dios verdadero de Dios\nverdadero, engendrado, no creado, de la misma\nnaturaleza del Padre, por quien todo\nfue hecho; que, por nosotros, los hombres, y por\nnuestra salvación bajó del cielo, y por obra del\nEspíritu Santo se encarnó de María, la Virgen, y\nse hizo hombre; y por nuestra causa fue\ncrucificado en tiempos de Poncio Pilato; padeció\ny fue sepultado, y resucitó al tercer día, según las\nEscrituras, y subió al\ncielo, y está sentado a la derecha del del Padre; y\nde nuevo vendrá con gloria para juzgar a vivos y\nmuertos, y su reino no tendrá fin.\nCreo en el Espíritu Santo, Señor y dador de vida,\nque procede del Padre y del Hijo, que con el\nPadre y el Hijo recibe una misma adoración y\ngloria, y que habló por los profetas.\nCreo en la Iglesia, que es una, santa,\ncatólica y apostólica.\nConfieso que hay un solo Bautismo para el\nperdón de los pecados. Espero la resurrección de\nlos muertos y la vida del mundo futuro.\n Amén."
         }
         // ...Añade aquí el resto de tus oraciones con su identificador...
     };

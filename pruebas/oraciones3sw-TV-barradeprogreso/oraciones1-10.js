@@ -29,4 +29,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         // ...Añade aquí el resto de tus oraciones con su identificador...
     };
-  });
+  };

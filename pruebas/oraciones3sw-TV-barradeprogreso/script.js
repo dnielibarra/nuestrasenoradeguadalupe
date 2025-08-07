@@ -4,21 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-    // =================================================================
-    // 2. LISTA DE ORACIONES POR LIBRO
-    // Aquí solo pones los identificadores de las oraciones que usa cada libro.
-    // =================================================================
-    const oracionesPorLibro = {
-        "libro1": { icono: '🌱', tema: 'tema-verde', oraciones: ['senalDeLaCruz', 'padreNuestro', 'angelDeLaGuarda'] },
-        "libro2": { icono: '🐑', tema: 'tema-amarillo', oraciones: ['senalDeLaCruz', 'padreNuestro', 'angelDeLaGuarda', 'aveMaria'] },
-        "libro3":  { icono: '🙏', tema: 'tema-rojo', oraciones: ['senalDeLaCruz', 'padreNuestro', 'angelDeLaGuarda', 'aveMaria', 'gloriaAlPadre'] },
-        "libro4":  { icono: '✨', tema: 'tema-naranja', oraciones: [] },
-        "libro5":  { icono: '📖', tema: 'tema-morado', oraciones: [] },
-        "libro6":  { icono: '🌾', tema: 'tema-granate', oraciones: [] },
-        "libro8":  { icono: '⚓', tema: 'tema-indigo', oraciones: [] },
-        "libro9":  { icono: '🔥', tema: 'tema-azul-marino', oraciones: [] },
-        "libro10": { icono: '🕊️', tema: 'tema-dorado', oraciones: [] }
-    };
+
 
 
     // =================================================================
@@ -108,5 +94,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
 

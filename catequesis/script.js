@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
         yoConfieso: { titulo: "Yo Confieso", texto: "Yo confieso ante Dios Todo poderoso,\ny ante ustedes hermanos,\nque he pecado mucho de pensamiento,\npalabra, obra y omisión.\nPor mi culpa, por mi culpa,\npor mi gran culpa.\nPor eso ruego a Santa María\nsiempre Virgen, a los ángeles,\na los santos y a ustedes hermanos,\nque intercedan por mí ante Dios,\nNuestro Señor.\nAmén."}
     
     
-    
     };
 
     // =================================================================
@@ -162,4 +161,5 @@ document.addEventListener('DOMContentLoaded', () => {
         menuLibros.appendChild(boton);
     });
 });
+
 

@@ -236,12 +236,5 @@ header p {
     transform: scale(1);
 }
 
-/* --- ESTILO PARA LA PALABRA RESALTADA AL ESCUCHAR --- */
-.oracion p .highlight {
-    background-color: #d1eaff; /* Un celeste suave */
-    color: #004085; /* Un azul oscuro para el texto */
-    border-radius: 3px;
-    padding: 0 2px;
-    transition: background-color 0.1s linear;
 
-}
+
